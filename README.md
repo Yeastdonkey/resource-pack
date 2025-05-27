@@ -12,6 +12,6 @@ This is a custom Minecraft resource pack derived from [VanillaTweaks](https://va
 ## 📜 License
 
 Assets sourced from VanillaTweaks remain under their license:
-- https://vanillatweaks.net/license/
+- https://vanillatweaks.net/terms
 
 Additional configuration files or original contributions in this repo fall under the [MIT License](LICENSE), unless otherwise noted.
